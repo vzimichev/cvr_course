@@ -1,4 +1,4 @@
-# Comuter Vision in Robotics
+# Computer Vision in Robotics
 
 <img src="./.img/logo_for_form.png" height="350" />
 
@@ -8,3 +8,4 @@ Course is online and will be carried out on our *[YouTube chanel](https://www.yo
 You are welcome!
 You are welcome!
 Hello, I am here, and this is my new line!
+
